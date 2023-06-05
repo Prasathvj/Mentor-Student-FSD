@@ -1,5 +1,4 @@
 import * as React from 'react';
-import MenuIcon from '@mui/icons-material/Menu';
 import { AppBar, Box, Button, IconButton, Toolbar, Typography } from '@mui/material'
 
 import DashboardIcon from '@mui/icons-material/Dashboard';
@@ -11,7 +10,7 @@ function Base({tittle,describe,children}) {
     <div className='navb'>
         <nav>
             <Box sx={{ flexGrow: 1 } }>
-                <AppBar position="fixed" color="error">
+                <AppBar position="fixed" color="success">
                     <Toolbar>
                     <IconButton
                         size="large"

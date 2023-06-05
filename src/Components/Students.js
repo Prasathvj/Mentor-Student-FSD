@@ -1,7 +1,6 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Base from '../Base/Base'
-import data1 from '../Data/Data1'
-import { Button, Card, CardActions, CardContent, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography } from '@mui/material';
+import { Button, CardActions, Table, TableBody, TableCell, TableContainer, TableHead, TableRow } from '@mui/material';
 import Paper from '@mui/material/Paper';
 
 import { useHistory } from 'react-router-dom';

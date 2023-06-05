@@ -7,8 +7,8 @@ function Dashboard() {
    const history =useHistory();
   return (
     <Base
-    tittle={'WELCOME TO THE OUR FAMILY'}
-    describe={'This CRUD-APPLICATION created by using API'}
+    tittle={'WELCOME TO OUR FAMILY'}
+    describe={'Full Stack Application'}
     >
         <div className='te-st'>
             <div className='teachers'>

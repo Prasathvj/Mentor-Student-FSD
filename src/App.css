@@ -44,7 +44,7 @@ padding: 10px 100px 10px 100px;
 
 }
 body{
-  background-image: linear-gradient(to right, rgb(196, 82, 57),rgb(250, 146, 123),rgb(224, 96, 68));
+  background-image: linear-gradient(to right, rgb(5, 74, 67), rgb(29, 131, 121), rgb(5, 74, 67));
 }
 .children{
   text-align: center;

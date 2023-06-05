@@ -58,7 +58,7 @@ function UpdateTeachers({teachers,setTeachers}) {
     
   return (
     <Base
-    tittle={''}
+    tittle={'Update your details'}
     describe={''}
     >
         <div className='inp1'>

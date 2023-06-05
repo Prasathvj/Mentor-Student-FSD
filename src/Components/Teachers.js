@@ -1,9 +1,6 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import Base from '../Base/Base'
-import data from '../Data/Data'
-import AccountCircleIcon from '@mui/icons-material/AccountCircle';
-import { Button, Card, CardActions, CardContent, Table, TableBody, TableCell, TableContainer, TableHead, TableRow, Typography } from '@mui/material'
-import AddTeachers from './AddTeachers';
+import { Button, CardActions,  Table, TableBody, TableCell, TableContainer, TableHead, TableRow} from '@mui/material'
 import { useHistory } from 'react-router-dom';
 import DeleteIcon from '@mui/icons-material/Delete';
 import EditIcon from '@mui/icons-material/Edit';
